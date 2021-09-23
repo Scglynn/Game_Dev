@@ -10,5 +10,6 @@ public class FinishZone : MonoBehaviour
 	void OnTriggerEnter(Collider other)
 	{
 		gameManager.FinishedGame();
+		gameManager.PositionPlayer();
 	}
 }

@@ -11,5 +11,6 @@ public class PlayerRespawn : MonoBehaviour
 	{
 		// Moves the player to the spawn point
 		gameManager.PositionPlayer();
+		gameManager.FinishedGame();
 	}
 }
