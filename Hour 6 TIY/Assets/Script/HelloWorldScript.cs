@@ -7,10 +7,4 @@ public class HelloWorldScript : MonoBehaviour
     {
         print("Hello World");
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }

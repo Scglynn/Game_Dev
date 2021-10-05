@@ -1,18 +1,18 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 public class Loop : MonoBehaviour
 {
-    public int sum;
-    int count = 499;
+    public int sum = 0;
+    public int count = 2;
     void Start()
     {
-        while(count <= 499 || count != 2)
+        for(count = 2; count <= 499; count++)
         {
             if(count % 2 == 0)
             {
                 sum += count;
             }
-            count--;
         }
         print(sum);
     }
