@@ -6,25 +6,14 @@ public class TriggerScript : MonoBehaviour
 {
     void OnTriggerEnter(Collider other)
     {
-        print(other.gameObject.name + " has entered the cube");
+        print("the sphere has entered the " + other.gameObject.name);
     }
     void OnTriggerStay(Collider other)
     {
-        print(other.gameObject.name + " is still in the cube");
+        print("the sphere is still in the " + other.gameObject.name);
     }
     void OnTriggerExit(Collider other)
     {
-        print(other.gameObject.name + " has left the cube");
-    }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        print("the sphere has left the " + other.gameObject.name);
     }
 }

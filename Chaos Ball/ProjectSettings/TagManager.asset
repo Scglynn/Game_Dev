@@ -9,6 +9,7 @@ TagManager:
   - Orange
   - Red
   - Blue
+  - Balls
   layers:
   - Default
   - TransparentFX
