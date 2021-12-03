@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 803baf1ea73913f46b25e07d0a79df22
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotBoyRun00
+    21300002: RobotBoyRun01
+    21300004: RobotBoyRun02
+    21300006: RobotBoyRun03
+    21300008: RobotBoyRun04
+    21300010: RobotBoyRun05
+    21300012: RobotBoyRun06
+    21300014: RobotBoyRun07
+    21300016: RobotBoyRun08
+    21300018: RobotBoyRun09
+    21300020: RobotBoyRun10
+    21300022: RobotBoyRun11
+    21300024: RobotBoyRun12
+    21300026: RobotBoyRun13
+    21300028: RobotBoyRun14
+    21300030: RobotBoyRun15
+    21300032: RobotBoyRunSprite_0
+    21300034: RobotBoyRunSprite_1
+    21300036: RobotBoyRunSprite_2
+    21300038: RobotBoyRunSprite_3
+    21300040: RobotBoyRunSprite_4
+    21300042: RobotBoyRunSprite_5
+    21300044: RobotBoyRunSprite_6
+    21300046: RobotBoyRunSprite_7
+    21300048: RobotBoyRunSprite_8
+    21300050: RobotBoyRunSprite_9
+    21300052: RobotBoyRunSprite_10
+    21300054: RobotBoyRunSprite_11
+    21300056: RobotBoyRunSprite_12
+    21300058: RobotBoyRunSprite_13
+    21300060: RobotBoyRunSprite_14
+    21300062: RobotBoyRunSprite_15
+    21300064: RobotBoyRunSprite_16
+    21300066: RobotBoyRunSprite_17
+    21300068: RobotBoyRunSprite_18
+    21300070: RobotBoyRunSprite_19
+    21300072: RobotBoyRunSprite_20
+    21300074: RobotBoyRunSprite_21
+    21300076: RobotBoyRunSprite_22
+    21300078: RobotBoyRunSprite_23
+    21300080: RobotBoyRunSprite_24
+    21300082: RobotBoyRunSprite_25
+    21300084: RobotBoyRunSprite_26
+    21300086: RobotBoyRunSprite_27
+    21300088: RobotBoyRunSprite_28
+    21300090: RobotBoyRunSprite_29
+    21300092: RobotBoyRunSprite_30
+    21300094: RobotBoyRunSprite_31
+    21300096: RobotBoyRunSprite_32
+    21300098: RobotBoyRunSprite_33
+    21300100: RobotBoyRunSprite_34
+    21300102: RobotBoyRunSprite_35
+    21300104: RobotBoyRunSprite_36
+    21300106: RobotBoyRunSprite_37
+    21300108: RobotBoyRunSprite_38
+    21300110: RobotBoyRunSprite_39
+    21300112: RobotBoyRunSprite_40
+    21300114: RobotBoyRunSprite_41
+    21300116: RobotBoyRunSprite_42
+    21300118: RobotBoyRunSprite_43
+    21300120: RobotBoyRunSprite_44
+    21300122: RobotBoyRunSprite_45
+    21300124: RobotBoyRunSprite_46
+    21300126: RobotBoyRunSprite_47
+    21300128: RobotBoyRunSprite_48
+    21300130: RobotBoyRunSprite_49
+    21300132: RobotBoyRunSprite_50
+    21300134: RobotBoyRunSprite_51
+    21300136: RobotBoyRunSprite_52
+    21300138: RobotBoyRunSprite_53
+    21300140: RobotBoyRunSprite_54
+    21300142: RobotBoyRunSprite_55
+    21300144: RobotBoyRunSprite_56
+    21300146: RobotBoyRunSprite_57
+    21300148: RobotBoyRunSprite_58
+    21300150: RobotBoyRunSprite_59
+    21300152: RobotBoyRunSprite_60
+    21300154: RobotBoyRunSprite_61
+    21300156: RobotBoyRunSprite_62
+    21300158: RobotBoyRunSprite_63
+    21300160: RobotBoyRunSprite_64
+    21300162: RobotBoyRunSprite_65
+    21300164: RobotBoyRunSprite_66
+    21300166: RobotBoyRunSprite_67
+    21300168: RobotBoyRunSprite_68
+    21300170: RobotBoyRunSprite_69
+    21300172: RobotBoyRunSprite_70
+    21300174: RobotBoyRunSprite_71
+    21300176: RobotBoyRunSprite_72
+    21300178: RobotBoyRunSprite_73
+    21300180: RobotBoyRunSprite_74
+    21300182: RobotBoyRunSprite_75
+    21300184: RobotBoyRunSprite_76
+    21300186: RobotBoyRunSprite_77
+    21300188: RobotBoyRunSprite_78
+    21300190: RobotBoyRunSprite_79
+    21300192: RobotBoyRunSprite_80
+    21300194: RobotBoyRunSprite_81
+    21300196: RobotBoyRunSprite_82
+    21300198: RobotBoyRunSprite_83
+    21300200: RobotBoyRunSprite_84
+    21300202: RobotBoyRunSprite_85
+    21300204: RobotBoyRunSprite_86
+    21300206: RobotBoyRunSprite_87
+    21300208: RobotBoyRunSprite_88
+    21300210: RobotBoyRunSprite_89
+    21300212: RobotBoyRunSprite_90
+    21300214: RobotBoyRunSprite_91
+    21300216: RobotBoyRunSprite_92
+    21300218: RobotBoyRunSprite_93
+    21300220: RobotBoyRunSprite_94
+    21300222: RobotBoyRunSprite_95
+    21300224: RobotBoyRunSprite_96
+    21300226: RobotBoyRunSprite_97
+    21300228: RobotBoyRunSprite_98
+    21300230: RobotBoyRunSprite_99
+    21300232: RobotBoyRunSprite_100
+    21300234: RobotBoyRunSprite_101
+    21300236: RobotBoyRunSprite_102
+    21300238: RobotBoyRunSprite_103
+    21300240: RobotBoyRunSprite_104
+    21300242: RobotBoyRunSprite_105
+    21300244: RobotBoyRunSprite_106
+    21300246: RobotBoyRunSprite_107
+    21300248: RobotBoyRunSprite_108
+    21300250: RobotBoyRunSprite_109
+    21300252: RobotBoyRunSprite_110
+    21300254: RobotBoyRunSprite_111
+    21300256: RobotBoyRunSprite_112
+    21300258: RobotBoyRunSprite_113
+    21300260: RobotBoyRunSprite_114
+    21300262: RobotBoyRunSprite_115
+    21300264: RobotBoyRunSprite_116
+    21300266: RobotBoyRunSprite_117
+    21300268: RobotBoyRunSprite_118
+    21300270: RobotBoyRunSprite_119
+    21300272: RobotBoyRunSprite_120
+    21300274: RobotBoyRunSprite_121
+    21300276: RobotBoyRunSprite_122
+    21300278: RobotBoyRunSprite_123
+    21300280: RobotBoyRunSprite_124
+    21300282: RobotBoyRunSprite_125
+    21300284: RobotBoyRunSprite_126
+    21300286: RobotBoyRunSprite_127
+    21300288: RobotBoyRunSprite_128
+    21300290: RobotBoyRunSprite_129
+    21300292: RobotBoyRunSprite_130
+    21300294: RobotBoyRunSprite_131
+    21300296: RobotBoyRunSprite_132
+    21300298: RobotBoyRunSprite_133
+    21300300: RobotBoyRunSprite_134
+    21300302: RobotBoyRunSprite_135
+    21300304: RobotBoyRunSprite_136
+    21300306: RobotBoyRunSprite_137
+    21300308: RobotBoyRunSprite_138
+    21300310: RobotBoyRunSprite_139
+    21300312: RobotBoyRunSprite_140
+    21300314: RobotBoyRunSprite_141
+    21300316: RobotBoyRunSprite_142
+    21300318: RobotBoyRunSprite_143
+    21300320: RobotBoyRunSprite_144
+    21300322: RobotBoyRunSprite_145
+    21300324: RobotBoyRunSprite_146
+    21300326: RobotBoyRunSprite_147
+    21300328: RobotBoyRunSprite_148
+    21300330: RobotBoyRunSprite_149
+    21300332: RobotBoyRunSprite_150
+    21300334: RobotBoyRunSprite_151
+    21300336: RobotBoyRunSprite_152
+    21300338: RobotBoyRunSprite_153
+    21300340: RobotBoyRunSprite_154
+    21300342: RobotBoyRunSprite_155
+    21300344: RobotBoyRunSprite_156
+    21300346: RobotBoyRunSprite_157
+    21300348: RobotBoyRunSprite_158
+    21300350: RobotBoyRunSprite_159
+    21300352: RobotBoyRunSprite_160
+    21300354: RobotBoyRunSprite_161
+    21300356: RobotBoyRunSprite_162
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: BlackBerry
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WP8
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1812
+        width: 120
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abcff1a7f49054498d4507f94cb625e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1800
+        width: 111
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59405da37cab07b48b15e1b4ec77311b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1788
+        width: 101
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ce6675542f2c1449da3f79c7f85ee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1787
+        width: 100
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f813c48f830f9046a1e71e1539a59e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1786
+        width: 112
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c91a3e0785b848ab7c5666a14d37f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1792
+        width: 118
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21217e8bf074b18418fce8c9a1847b9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1809
+        width: 129
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c14b1f439936642a8288fba3afd641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1550
+        width: 137
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1cf933af78a34384a9302b7f82592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1540
+        width: 126
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a0353a15352ad41b6c689e2d7241e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1521
+        width: 120
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20b49a188f9525498b4e22c605a9cf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_10
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1511
+        width: 105
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823468290c3491c49a682e69f92d5f81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1508
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea6dbe4f5dfa9043b6349663bc730b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1508
+        width: 105
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b621099753de054b9658ca7de43e4c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1508
+        width: 110
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e91e3209ca5c24c9b987d2e57519da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1247
+        width: 120
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca69aaab3584c4d95360cc37c43025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRunSprite_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1263
+        width: 120
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34d49a8b171e94898e7c58168d52a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d7c84741ffbdae94c8a831de599b1a42
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
