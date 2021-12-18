@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
 
     int playerScore = 0;
 
+    //public float astroid_speed = 0.5f;
+
 
     public void AddScore()
     {

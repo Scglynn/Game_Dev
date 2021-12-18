@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ScrollBackground : MonoBehaviour
 {
-    public float speed = -2f;
+    public float speed = -1f;
     public float lowerYValue = -20f;
     public float upperYValue = 40;
 

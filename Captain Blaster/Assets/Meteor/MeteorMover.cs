@@ -6,6 +6,7 @@ public class MeteorMover : MonoBehaviour
 
 
     Rigidbody2D rigidBody;
+    //public GameObject gm;
 
 
     void Start()
